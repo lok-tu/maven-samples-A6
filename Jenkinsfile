@@ -1,8 +1,8 @@
 pipeline {
   agent any
   tools { 
-      maven 'DHT_MVN' 
-      jdk 'DHT_SENSE' 
+      maven 'LOK_MVN' 
+      jdk 'LOK_JAVA' 
   }
   }
 }
